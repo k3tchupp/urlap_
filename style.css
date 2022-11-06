@@ -1,0 +1,26 @@
+.divs{
+    background-color: rgb(220, 219, 241);
+    width: 500px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+strong{
+    background-color: white;
+    padding: 5px;
+}
+
+#elk{
+    margin: 20px 0;
+    background-color: white;
+    width: 250px;
+    height: 50px;
+}
+
+td {
+    width: 100vw;
+    text-align: center;
+    vertical-align: middle;
+}
